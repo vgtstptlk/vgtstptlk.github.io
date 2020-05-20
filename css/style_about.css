@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Philosopher');
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,400italic|Playfair+Display+SC:400,700&subset=latin,cyrillic);
+
+h2 {
+	font-family: 'Playfair Display SC', serif;
+	font-weight: 500;
+	letter-spacing: 1px;
+	font-size: 1.25em;
+	color: #222222;
+	text-align:center;
+}
+p {
+	font-size: 0.60em;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.7;
+	color: #FAEBD7;
+	text-align: center;
+	margin: 0px auto 10px;
+	width: 70%;
+	padding: 10px;
+}
